@@ -5,6 +5,12 @@ h1 {
     font-size: 32px;
 }
 
+.main {
+    width: 40px;
+    height: 40px;
+    box-shadow: 2px black;
+}
+
 li {
     background-color: black;
 }
